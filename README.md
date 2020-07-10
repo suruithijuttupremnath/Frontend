@@ -1,20 +1,2 @@
 # Frontend
 This is Front-end internship which makes me to explore the Web development part using React.
-<br>
-</br>
-
-### [Public](https://github.com/suruithijuttupremnath/Frontend/tree/master/public)
-- **[index.html](https://github.com/suruithijuttupremnath/Frontend/tree/master/public)**
-
-### [Src](https://github.com/suruithijuttupremnath/Frontend/tree/master/src)
-- **[App.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/src)**
-- **[index.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/src)**
-
-### [Config](https://github.com/suruithijuttupremnath/Frontend/tree/master/config)
-- **[.babelrc](https://github.com/suruithijuttupremnath/Frontend/blob/master/config)**
-- **[webpack.config.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/config)**
-
-### [Dist](https://github.com/suruithijuttupremnath/Frontend/tree/master/dist)
-- **[bundle.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/dist)**
-
-
