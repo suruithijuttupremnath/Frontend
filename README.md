@@ -7,7 +7,7 @@ This is Front-end internship which makes me to explore the Web development part 
 - **[index.html](https://github.com/suruithijuttupremnath/Frontend/tree/master/public)**
 
 ### [Src](https://github.com/suruithijuttupremnath/Frontend/tree/master/src)
-- **[App.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/src/App.js)**
+- **[App.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/src)**
 - **[index.js](https://github.com/suruithijuttupremnath/Frontend/blob/master/src/index.js)**
 
 ### [Config](https://github.com/suruithijuttupremnath/Frontend/tree/master/config)
